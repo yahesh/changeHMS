@@ -1,0 +1,13 @@
+object MainWebModule: TMainWebModule
+  OldCreateOrder = False
+  Actions = <
+    item
+      Default = True
+      Name = 'default'
+      OnAction = MainWebModuledefaultAction
+    end>
+  Left = 455
+  Top = 330
+  Height = 150
+  Width = 215
+end
